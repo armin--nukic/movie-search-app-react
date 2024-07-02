@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/armin--nukic/movie-search-app-react/static/css/main.6491db44.css",
+    "main.js": "/armin--nukic/movie-search-app-react/static/js/main.263fb182.js",
+    "static/js/453.d150de9e.chunk.js": "/armin--nukic/movie-search-app-react/static/js/453.d150de9e.chunk.js",
+    "index.html": "/armin--nukic/movie-search-app-react/index.html",
+    "main.6491db44.css.map": "/armin--nukic/movie-search-app-react/static/css/main.6491db44.css.map",
+    "main.263fb182.js.map": "/armin--nukic/movie-search-app-react/static/js/main.263fb182.js.map",
+    "453.d150de9e.chunk.js.map": "/armin--nukic/movie-search-app-react/static/js/453.d150de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6491db44.css",
+    "static/js/main.263fb182.js"
+  ]
+}
